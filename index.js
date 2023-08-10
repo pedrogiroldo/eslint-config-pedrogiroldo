@@ -23,7 +23,8 @@ module.exports = {
             "never"
         ],
         "no-unused-vars":"warn",
-        "object-curly-spacing": ["error", "always"]
+        "object-curly-spacing": ["error", "always"],
+	    "jsx-quotes": ["error", "prefer-single"],
     }
 
 
